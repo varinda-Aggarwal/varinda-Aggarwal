@@ -4,7 +4,7 @@
 
 I'm a B.Tech Computer Science student passionate about building scalable full stack applications with modern web technologies. I enjoy designing clean backend architectures and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-Currently, I'm building **CodePulse** — a production-inspired full stack DSA platform featuring secure authentication, AI-powered study plans, cloud media storage, and scalable backend architecture.
+I'm passionate about writing clean, maintainable code and continuously improving my backend development skills by building real-world full stack applications.
 
 ---
 
@@ -62,3 +62,38 @@ Currently, I'm building **CodePulse** — a production-inspired full stack DSA p
 - JWT Authentication
 - Responsive UI Development
 - Git Version Control
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 CodePulse (Currently Building)
+
+A full stack DSA tracking platform designed to help students organize, practice, and revise coding problems efficiently.
+
+**Highlights**
+- 🔐 JWT Authentication + Google OAuth
+- 🤖 AI-powered personalized study plans using Google Gemini
+- ☁️ Cloudinary profile image upload
+- 📧 OTP Email Verification & Forgot Password
+- 📊 Dashboard with analytics and progress tracking
+- 📂 Topic & Problem Management
+- 🔎 Search, Sort & Pagination
+- 🏗️ RESTful API with MVC Architecture
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT • Cloudinary • Gemini AI
+
+> 🚧 Deployment in progress.
+
+---
+
+### 📌 Striver A2Z DSA
+
+A structured repository containing my solutions to the Striver A2Z DSA Sheet in Java.
+
+**Highlights**
+- 📚 Well-organized topic-wise solutions
+- 💻 Clean Java implementations
+- 📝 Continuous learning and updates
+
+**Tech Stack:** Java
