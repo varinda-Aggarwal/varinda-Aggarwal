@@ -1,8 +1,17 @@
 # Hi, I'm Varinda Aggarwal 👋
 
-### Full Stack Developer | Java | React | Node.js | Express.js | MongoDB | DSA
+### Full Stack Developer | MERN Stack | Java | DSA
 
 I'm a B.Tech Computer Science student passionate about building scalable full stack web applications. I enjoy designing clean backend architectures, solving Data Structures & Algorithms problems, and continuously improving my software engineering skills by building real-world projects.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/varinda-aggarwal-537101308">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:varindaptrn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -10,9 +19,54 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 
 - 🎓 B.Tech Computer Science Engineering student at **Chitkara University**
 - 📈 Current CGPA: **9.14**
-- 💻 Solved **106+ LeetCode** problems
+- 💻 Solved **106+ Data Structures & Algorithms** problems on LeetCode
 - 🌱 Currently strengthening my Backend Engineering skills and learning System Design fundamentals
+- 🚀 Building real-world full stack applications with a strong focus on backend development
 - 🎯 Seeking **Software Development / Full Stack Developer Internship** opportunities
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 CodePulse — Flagship Full Stack Project
+
+A production-inspired full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
+
+**Highlights**
+- 🔐 JWT Authentication + Google OAuth
+- 🤖 AI-powered personalized study plans using Google Gemini
+- ☁️ Cloudinary profile image upload
+- 📧 OTP Email Verification & Forgot Password
+- 📊 Dashboard with analytics and progress tracking
+- 📂 Topic & Problem Management
+- 🔎 Search, Sort & Pagination
+- 🏗️ RESTful API with MVC Architecture
+
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT Auth • Cloudinary • Gemini AI
+
+**Repository:** [View on GitHub](https://github.com/varinda-Aggarwal/CodePulse)
+
+**Status:** 🚧 Active Development
+
+**Live Demo:** Coming Soon
+
+---
+
+### 📌 Striver A2Z DSA
+
+A structured repository containing my solutions to the Striver A2Z DSA Sheet in Java.
+
+**Highlights**
+- 📚 Topic-wise organized solutions
+- 💻 Clean Java implementations
+- 🧠 Focused on strengthening problem-solving skills
+- 📝 Regularly updated with new solutions
+
+**Tech Stack:** Java • DSA
+
+**Progress:** 106+ Problems Solved
+
+**Repository:** [View on GitHub](https://github.com/varinda-Aggarwal/Striver-A2Z-DSA)
 
 ---
 
@@ -53,48 +107,15 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Engineering Practices
+---
+
+## ⚙️ Engineering Practices
 
 - RESTful API Design
 - MVC Architecture
 - Authentication & Authorization
 - Responsive UI Development
 - Git Version Control
-
----
-
-## 🚀 Featured Projects
-
-### 📌 CodePulse (https://github.com/varinda-Aggarwal/CodePulse) (Flagship Project)
-
-A production-inspired full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
-
-**Highlights**
-- 🔐 JWT Authentication + Google OAuth
-- 🤖 AI-powered personalized study plans using Google Gemini
-- ☁️ Cloudinary profile image upload
-- 📧 OTP Email Verification & Forgot Password
-- 📊 Dashboard with analytics and progress tracking
-- 📂 Topic & Problem Management
-- 🔎 Search, Sort & Pagination
-- 🏗️ RESTful API with MVC Architecture
-
-**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT Auth • Cloudinary • Gemini AI
-
-> 🚧 Live demo coming soon.
-
----
-
-### 📌 Striver A2Z DSA (https://github.com/varinda-Aggarwal/Striver-A2Z-DSA)
-
-A structured repository containing my solutions to the Striver A2Z DSA Sheet in Java.
-
-**Highlights**
-- 📚 Well-organized topic-wise solutions
-- 💻 Clean Java implementations
-- 📝 Continuous learning and updates
-
-**Tech Stack:** Java • DSA
 
 ---
 
@@ -109,6 +130,6 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/varinda-aggarwal-537101308
-- 📧 Email: varindaptrn@gmail.com
-- 🌐 Portfolio: Coming Soon
+- 💼 LinkedIn: [Varinda Aggarwal](https://www.linkedin.com/in/varinda-aggarwal-537101308)
+- 📧 Email: [varindaptrn@gmail.com](mailto:varindaptrn@gmail.com)
+- 💻 LeetCode: *Add Profile Link*
