@@ -65,7 +65,7 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 
 ## 🚀 Featured Projects
 
-### 📌 CodePulse (Flagship Project)
+### 📌 CodePulse (https://github.com/varinda-Aggarwal/CodePulse) (Flagship Project)
 
 A production-inspired full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
 
@@ -79,13 +79,13 @@ A production-inspired full stack DSA tracking platform that helps students organ
 - 🔎 Search, Sort & Pagination
 - 🏗️ RESTful API with MVC Architecture
 
-**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Cloudinary • Gemini AI
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT Auth • Cloudinary • Gemini AI
 
-> 🚧 Deployment in progress.
+> 🚧 Live demo coming soon.
 
 ---
 
-### 📌 Striver A2Z DSA
+### 📌 Striver A2Z DSA (https://github.com/varinda-Aggarwal/Striver-A2Z-DSA)
 
 A structured repository containing my solutions to the Striver A2Z DSA Sheet in Java.
 
@@ -95,3 +95,20 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 - 📝 Continuous learning and updates
 
 **Tech Stack:** Java • DSA
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varinda-Aggarwal&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varinda-Aggarwal&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/varinda-aggarwal-537101308
+- 📧 Email: varindaptrn@gmail.com
+- 🌐 Portfolio: Coming Soon
