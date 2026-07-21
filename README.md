@@ -1,6 +1,6 @@
 # Hi, I'm Varinda Aggarwal 👋
 
-### Full Stack Developer | MERN Stack | Java | DSA
+### Full Stack Developer | MERN Stack | Java | Data Structures & Algorithms
 
 I'm a B.Tech Computer Science student passionate about building scalable full stack web applications. I enjoy designing clean backend architectures, solving Data Structures & Algorithms problems, and continuously improving my software engineering skills by building real-world projects.
 
@@ -19,7 +19,7 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 
 - 🎓 B.Tech Computer Science Engineering student at **Chitkara University**
 - 📈 Current CGPA: **9.14**
-- 💻 Solved **106+ Data Structures & Algorithms** problems on LeetCode
+- 💻 Solved 106+ coding problems on LeetCode with a focus on Data Structures & Algorithms
 - 🌱 Currently strengthening my Backend Engineering skills and learning System Design fundamentals
 - 🚀 Building real-world full stack applications with a strong focus on backend development
 - 🎯 Seeking **Software Development / Full Stack Developer Internship** opportunities
@@ -30,19 +30,19 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 
 ### 📌 CodePulse — Flagship Full Stack Project
 
-A production-inspired full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
+A full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
 
 **Highlights**
 - 🔐 JWT Authentication + Google OAuth
 - 🤖 AI-powered personalized study plans using Google Gemini
 - ☁️ Cloudinary profile image upload
-- 📧 OTP Email Verification & Forgot Password
+- 📧 OTP-based Email Verification & Secure Password Reset
 - 📊 Dashboard with analytics and progress tracking
 - 📂 Topic & Problem Management
 - 🔎 Search, Sort & Pagination
 - 🏗️ RESTful API with MVC Architecture
 
-**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT Auth • Cloudinary • Gemini AI
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT Authentication • Cloudinary • Gemini AI
 
 **Repository:** [View on GitHub](https://github.com/varinda-Aggarwal/CodePulse)
 
@@ -114,6 +114,7 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 - RESTful API Design
 - MVC Architecture
 - Authentication & Authorization
+- Input Validation & Error Handling
 - Responsive UI Development
 - Git Version Control
 
@@ -132,4 +133,4 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 
 - 💼 LinkedIn: [Varinda Aggarwal](https://www.linkedin.com/in/varinda-aggarwal-537101308)
 - 📧 Email: [varindaptrn@gmail.com](mailto:varindaptrn@gmail.com)
-- 💻 LeetCode: *Add Profile Link*
+- 💻 LeetCode: [varindaaggarwal1](https://leetcode.com/u/varindaaggarwal1/)
