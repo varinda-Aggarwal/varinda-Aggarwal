@@ -2,9 +2,7 @@
 
 ### Full Stack Developer | Java | React | Node.js | Express.js | MongoDB | DSA
 
-I'm a B.Tech Computer Science student passionate about building scalable full stack applications with modern web technologies. I enjoy designing clean backend architectures and continuously improving my problem-solving skills through Data Structures & Algorithms.
-
-I'm passionate about writing clean, maintainable code and continuously improving my backend development skills by building real-world full stack applications.
+I'm a B.Tech Computer Science student passionate about building scalable full stack web applications. I enjoy designing clean backend architectures, solving Data Structures & Algorithms problems, and continuously improving my software engineering skills by building real-world projects.
 
 ---
 
@@ -13,7 +11,7 @@ I'm passionate about writing clean, maintainable code and continuously improving
 - 🎓 B.Tech Computer Science Engineering student at **Chitkara University**
 - 📈 Current CGPA: **9.14**
 - 💻 Solved **106+ LeetCode** problems
-- 🌱 Currently learning **Backend Engineering, System Design Fundamentals, and Scalable Application Development**
+- 🌱 Currently strengthening my Backend Engineering skills and learning System Design fundamentals
 - 🎯 Seeking **Software Development / Full Stack Developer Internship** opportunities
 
 ---
@@ -59,7 +57,7 @@ I'm passionate about writing clean, maintainable code and continuously improving
 
 - RESTful API Design
 - MVC Architecture
-- JWT Authentication
+- Authentication & Authorization
 - Responsive UI Development
 - Git Version Control
 
@@ -67,9 +65,9 @@ I'm passionate about writing clean, maintainable code and continuously improving
 
 ## 🚀 Featured Projects
 
-### 📌 CodePulse (Currently Building)
+### 📌 CodePulse (Flagship Project)
 
-A full stack DSA tracking platform designed to help students organize, practice, and revise coding problems efficiently.
+A production-inspired full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
 
 **Highlights**
 - 🔐 JWT Authentication + Google OAuth
@@ -81,7 +79,7 @@ A full stack DSA tracking platform designed to help students organize, practice,
 - 🔎 Search, Sort & Pagination
 - 🏗️ RESTful API with MVC Architecture
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT • Cloudinary • Gemini AI
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Cloudinary • Gemini AI
 
 > 🚧 Deployment in progress.
 
@@ -96,4 +94,4 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 - 💻 Clean Java implementations
 - 📝 Continuous learning and updates
 
-**Tech Stack:** Java
+**Tech Stack:** Java • DSA
