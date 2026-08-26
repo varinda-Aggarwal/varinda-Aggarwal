@@ -19,7 +19,7 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 
 - 🎓 B.Tech Computer Science Engineering student at **Chitkara University**
 - 📈 Current CGPA: **9.14**
-- 💻 Solved 106+ coding problems on LeetCode with a focus on Data Structures & Algorithms
+- 💻 Solved 124+ coding problems on LeetCode with a focus on Data Structures & Algorithms
 - 🌱 Currently strengthening my Backend Engineering skills and learning System Design fundamentals
 - 🚀 Building real-world full stack applications with a strong focus on backend development
 - 🎯 Seeking **Software Development / Full Stack Developer Internship** opportunities
@@ -30,31 +30,31 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 
 ### 📌 CodePulse — Flagship Full Stack Project
 
-A full stack DSA tracking platform that helps students organize, practice, revise, and analyze coding progress through AI-assisted learning and secure user management.
+A full-stack MERN application for DSA interview preparation that helps users track problems and topics, monitor mastery, set daily goals, identify weak areas, and generate AI-personalized study plans.
 
 **Highlights**
-- 🔐 JWT Authentication + Google OAuth
-- 🤖 AI-powered personalized study plans using Google Gemini
-- ☁️ Cloudinary profile image upload
-- 📧 OTP-based Email Verification & Secure Password Reset
-- 📊 Dashboard with analytics and progress tracking
-- 📂 Topic & Problem Management
-- 🔎 Search, Sort & Pagination
-- 🏗️ RESTful API with MVC Architecture
+- 🔐 JWT Authentication + Google OAuth 2.0
+- 📧 OTP-based registration + Forgot/Reset Password
+- 📊 Dashboard with topic mastery and problem analytics
+- 🎯 Daily goal tracking with monthly progress history
+- 🤖 AI-powered study plans using Google Gemini
+- 📝 Problem tracking with notes, filtering, sorting, pagination and revision flags
+- ☁️ Cloudinary profile image management
+- 🛡️ Rate limiting and protected REST APIs
+- 📱 Responsive interface for desktop, tablet and mobile
 
-**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT Authentication • Cloudinary • Gemini AI
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Passport.js • Google OAuth • Gemini AI • Cloudinary
 
-**Repository:** [View on GitHub](https://github.com/varinda-Aggarwal/CodePulse)
+**Repository:** [View on GitHub](https://github.com/varinda-Aggarwal/CodePulse)  
+**Live Demo:** [code-pulse-lime.vercel.app](https://code-pulse-lime.vercel.app/)
 
-**Status:** 🚧 Active Development
-
-**Live Demo:** Coming Soon
+**Status:** 🚀 Deployed & Actively Maintained
 
 ---
 
 ### 📌 Striver A2Z DSA
 
-A structured repository containing my solutions to the Striver A2Z DSA Sheet in Java.
+A structured repository containing my Java solutions to the Striver A2Z DSA Sheet, focused on building strong problem-solving and algorithmic thinking skills.
 
 **Highlights**
 - 📚 Topic-wise organized solutions
@@ -95,6 +95,7 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
 
 ### Database
 
@@ -106,6 +107,7 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -114,7 +116,7 @@ A structured repository containing my solutions to the Striver A2Z DSA Sheet in 
 - RESTful API Design
 - MVC Architecture
 - Authentication & Authorization
-- Input Validation & Error Handling
+- API Testing & Documentation
 - Responsive UI Development
 - Git Version Control
 
