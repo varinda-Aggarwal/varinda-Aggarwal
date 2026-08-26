@@ -11,13 +11,16 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
   <a href="mailto:varindaptrn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/varindaaggarwal1/">
+    <img src="https://img.shields.io/badge/LeetCode-124%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student at **Chitkara University**
+- 🎓 B.Tech Computer Science Engineering student at **Chitkara University** | Expected Graduation: **2028**
 - 📈 Current CGPA: **9.14**
 - 💻 Solved 124+ coding problems on LeetCode with a focus on Data Structures & Algorithms
 - 🌱 Currently strengthening my Backend Engineering skills and learning System Design fundamentals
@@ -31,6 +34,13 @@ I'm a B.Tech Computer Science student passionate about building scalable full st
 ### 📌 CodePulse — Flagship Full Stack Project
 
 A full-stack MERN application for DSA interview preparation that helps users track problems and topics, monitor mastery, set daily goals, identify weak areas, and generate AI-personalized study plans.
+
+![CodePulse Dashboard](https://raw.githubusercontent.com/varinda-Aggarwal/CodePulse/main/docs/Screenshots/05-dashboard-overview.png)
+
+**Key Engineering Decisions**
+- Difficulty-weighted topic mastery to identify genuinely weak areas based on actual problem-solving progress.
+- Protected REST APIs using JWT authentication, Google OAuth 2.0, authorization checks, and rate limiting.
+- AI study plans generated using dashboard-derived weak-topic analytics instead of manually selected topics.
 
 **Highlights**
 - 🔐 JWT Authentication + Google OAuth 2.0
@@ -49,24 +59,28 @@ A full-stack MERN application for DSA interview preparation that helps users tra
 **Live Demo:** [code-pulse-lime.vercel.app](https://code-pulse-lime.vercel.app/)
 
 **Status:** 🚀 Deployed & Actively Maintained
-
 ---
 
 ### 📌 Striver A2Z DSA
 
-A structured repository containing my Java solutions to the Striver A2Z DSA Sheet, focused on building strong problem-solving and algorithmic thinking skills.
+A structured collection of my Java solutions while following the Striver A2Z DSA roadmap, focused on building strong problem-solving skills and understanding core Data Structures & Algorithms concepts.
 
-**Highlights**
-- 📚 Topic-wise organized solutions
-- 💻 Clean Java implementations
-- 🧠 Focused on strengthening problem-solving skills
-- 📝 Regularly updated with new solutions
+**Progress:** 126+ Problems Solved
 
-**Tech Stack:** Java • DSA
+**Topics Practiced**
+- Basics
+- Arrays
+- Sorting
+- Basic Hashing
+- Recursion
+- Linked List
+- Doubly Linked List
+- Bit Manipulation
+- Strings
 
-**Progress:** 106+ Problems Solved
+**Tech:** Java • Data Structures & Algorithms
 
-**Repository:** [View on GitHub](https://github.com/varinda-Aggarwal/Striver-A2Z-DSA)
+[View Repository](https://github.com/varinda-Aggarwal/Striver-A2Z-DSA)
 
 ---
 
@@ -111,28 +125,27 @@ A structured repository containing my Java solutions to the Striver A2Z DSA Shee
 
 ---
 
-## ⚙️ Engineering Practices
+### ⚙️ Engineering Practices
 
-- RESTful API Design
+- RESTful API Design & Documentation
 - MVC Architecture
 - Authentication & Authorization
-- API Testing & Documentation
+- API Testing with Postman
 - Responsive UI Development
 - Git Version Control
-
+  
 ---
 
+## 🏆 Achievements & Activities
+
+- 🏆 Participated in **2 Hackathons** — received an **Appreciation Certificate** in one and a **Participation Certificate** in another
+- 🌱 **SCRS** — Received a Letter of Appointment
+
+---
+  
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=varinda-Aggarwal&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varinda-Aggarwal&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Varinda Aggarwal](https://www.linkedin.com/in/varinda-aggarwal-537101308)
-- 📧 Email: [varindaptrn@gmail.com](mailto:varindaptrn@gmail.com)
-- 💻 LeetCode: [varindaaggarwal1](https://leetcode.com/u/varindaaggarwal1/)
